@@ -1,0 +1,53 @@
+.about {
+    margin: 80px 100px;
+    height: 75vh;
+}
+.about_first {
+    font-size: 24px;
+    margin-bottom: -10px;
+    color: #D3D3D3;
+}
+.about_second {
+    font-size: 70px;
+    line-height: 10px;
+    color: whitesmoke;
+}
+.about_third {
+    font-size: 40px;
+    color: #D3D3D3;
+}
+.about_des {
+    font-size: 20px;
+    line-height: 30px;
+    width: 800px;
+    color: #D3D3D3;
+}
+.about_btn {
+    margin-top: 40px;
+}
+.about_btn > button{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    color: red;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+}
+.about_btn > button:hover {
+    background-color: #101010;
+}
+.icons {
+    display: flex;
+    align-items: center;
+}
+.icon {
+    padding: 0 20px;
+    background-color: transparent;
+    
+}
+.icon:hover {
+    color: red;
+    transform: translateY(-5px);
+    cursor: pointer;
+}

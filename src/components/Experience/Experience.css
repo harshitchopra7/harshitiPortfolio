@@ -1,0 +1,77 @@
+.experience {
+    background-color: black;
+    height: 100vh;
+}
+.experience_heading > p {
+    font-size: 40px;
+    text-align: center;
+    padding: 20px 0;
+}
+.experience_show {
+    display: flex;
+}
+.experience1 {
+    flex: 0.5;
+    background-color: #181818;
+    margin: 20px 80px;
+    padding: 0 20px;
+    border: 1px solid;
+    box-shadow: -8px 8px 8px 0px red;
+    padding-bottom: 20px;
+}
+.experience1_heading {
+    font-size: 30px;
+    text-align: center;
+}
+.experience1_des {
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+}
+.tech_used > p{
+    text-align: center;
+    font-size: 22px;
+}
+.tech_used_img {
+    display: flex;
+    justify-content: center;
+}
+.tech_used_img > img {
+    display: flex;
+    height: 50px;
+    margin: 0 7px;
+}
+.tech_used_img > img:hover {
+    transform: translateY(-3px);
+    cursor: pointer;
+}
+.experience2 {
+    flex: 0.5;
+    background-color: #181818;
+    margin: 20px 80px;
+    padding: 0 20px;
+    padding-bottom: 20px;
+    border: 1px solid;
+    box-shadow: 8px -8px 8px 0 red;
+    padding-bottom: 20px;
+}
+.tech_used2 {
+    margin-top: 30%;
+}
+.tech_used2 > p{
+    text-align: center;
+    font-size: 22px;
+}
+.tech_used_img2 {
+    display: flex;
+    justify-content: center;
+}
+.tech_used_img2 > img {
+    display: flex;
+    height: 50px;
+    margin: 0 7px;
+}
+.tech_used_img2 > img:hover {
+    transform: translateY(-3px);
+    cursor: pointer;
+}
