@@ -1,0 +1,10 @@
+.projects {
+    height: 100vh;
+    background-color: #080808;
+    padding: 0 100px;
+}
+.projects_heading {
+    font-size: 40px;
+    text-align: center;
+    padding: 20px 0;
+}

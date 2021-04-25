@@ -34,7 +34,7 @@ function About() {
                 <a href="https://github.com/harshitchopra7" target="_blank" style={{color: "white"}} ><GitHubIcon className="icon" style={{width: '45px', height: '45px'}} /></a>
             </div>
             <div className="about_btn">
-                <button>Get in Touch</button>
+            <a href="mailto: chopraharshit2000@gmail.com"><button className="about_btnn">Get in Touch</button></a>
             </div>
         </div>
     );

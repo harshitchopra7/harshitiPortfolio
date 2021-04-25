@@ -25,7 +25,7 @@
 .about_btn {
     margin-top: 40px;
 }
-.about_btn > button{
+.about_btnn{
     width: 200px;
     height: 50px;
     font-size: 20px;
@@ -34,15 +34,15 @@
     outline: none;
     cursor: pointer;
 }
-.about_btn > button:hover {
-    background-color: #101010;
+.about_btnn:hover {
+    background-color: #080808;
 }
 .icons {
     display: flex;
     align-items: center;
 }
 .icon {
-    padding: 0 20px;
+    margin: 0 20px;
     background-color: transparent;
     
 }

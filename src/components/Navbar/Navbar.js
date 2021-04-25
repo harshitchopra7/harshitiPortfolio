@@ -1,6 +1,8 @@
 import React from 'react';
 import './Navbar.css';
 
+var a="<HC />";
+
 function Navbar() {
     return (
 
@@ -13,7 +15,7 @@ function Navbar() {
 
         <div className="navbar">
             <div className="navbar_left">
-                <p>Dhaasu Logo</p>
+                <p>{a}</p>
             </div>
             <div className="navbar_right">
                 <ul>
